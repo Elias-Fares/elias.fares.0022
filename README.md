@@ -1,16 +1,7 @@
-# my_app
+# Resturant_menu_app
 
-A new Flutter project.
+In this app, I create a resturant menu app where  I implemented and understood the principles of connecting the app with an API and performing operations on it. I also supported multilingualism and made the app support 3 languages: English, Arabic, and Dutch.
+and also Search Delegate.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# CONTACT ME
+email: elias.fares.2002@gmail.com
